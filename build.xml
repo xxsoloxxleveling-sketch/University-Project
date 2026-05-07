@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- You may freely edit this file. See commented blocks below for -->
+<!-- some examples of how to customize the build. -->
+<!-- (NOTE: 'project.ant.import.files' property from 'nbproject/project.properties' -->
+<!-- can be used to override the default import of 'nbproject/build-impl.xml') -->
+<project name="HospitalManagementSystem" default="default" basedir=".">
+    <description>Builds, tests, and runs the project HospitalManagementSystem.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
